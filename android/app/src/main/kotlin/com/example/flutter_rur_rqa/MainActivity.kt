@@ -1,4 +1,4 @@
-package com.example.sledovani_prijmu
+package com.example.sledovani_vydaju
 
 import io.flutter.embedding.android.FlutterActivity
 

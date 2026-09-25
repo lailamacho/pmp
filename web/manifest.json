@@ -1,6 +1,6 @@
 {
-    "name": "sledovani_prijmu",
-    "short_name": "sledovani_prijmu",
+    "name": "sledovani_vydaju",
+    "short_name": "sledovani_vydaju",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
